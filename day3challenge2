@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>My Recipe</title>
+    
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+	<body>
+		
+		<header>
+		
+			<h1>How to make Tea</h1>
+			
+			image
+
+			<p>At the very least, tea is a flavourful way of getting enought fluid into your body each day. 
+			<li>On top of that, studies have shown teas can help protect your teeth and your heart.</li></p>description
+
+		</header>
+		
+		<section>
+			
+			<h2>ingredients</h2>
+			
+			<ul>
+			    <li>Tea Bag</li>
+			    <li>Water</li>
+			    <li>Milk - Dairy/Plant-based (optional)</li>
+			    <li>Sugar/Honey (optional)</li>
+			</ul>
+		</section>
+		
+		<section>
+			preparation
+			list
+		</section>
+		
+		<footer>
+			copyright
+		</footer>
+
+		<script src="script.js"></script>
+	</body>
+</html>
